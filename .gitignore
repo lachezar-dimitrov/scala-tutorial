@@ -1,0 +1,89 @@
+# Project exclude paths
+/Classes Vs Case Classes/Case Classes Encoding/project/target/
+/Classes Vs Case Classes/Case Classes Encoding/target/
+/Classes Vs Case Classes/Creation and Manipulation/project/target/
+/Classes Vs Case Classes/Creation and Manipulation/target/
+/Classes Vs Case Classes/Equality/project/target/
+/Classes Vs Case Classes/Equality/target/
+/Definitions and Evaluation/Multiple Parameters/project/target/
+/Definitions and Evaluation/Multiple Parameters/target/
+/Definitions and Evaluation/Naming Things/project/target/
+/Definitions and Evaluation/Naming Things/target/
+/Definitions and Evaluation/Naming Things 2/project/target/
+/Definitions and Evaluation/Naming Things 2/target/
+/Functional Loops/Computing the Square Root of a Value/project/target/
+/Functional Loops/Computing the Square Root of a Value/target/
+/Functional Loops/Conditional Expressions/project/target/
+/Functional Loops/Conditional Expressions/target/
+/Higher Order Functions/Higher Order Functions/project/target/
+/Higher Order Functions/Higher Order Functions/target/
+/Imperative Programming/Imperative Loops/project/target/
+/Imperative Programming/Imperative Loops/target/
+/Imperative Programming/Stateful Objects/project/target/
+/Imperative Programming/Stateful Objects/target/
+/Lazy Evaluation/Lazy Evaluation/project/target/
+/Lazy Evaluation/Lazy Evaluation/target/
+/Lazy Evaluation/Lazy Lists/project/target/
+/Lazy Evaluation/Lazy Lists/target/
+/Lexical Scopes/Lexical Scoping/project/target/
+/Lexical Scopes/Lexical Scoping/target/
+/Lexical Scopes/Nested Functions/project/target/
+/Lexical Scopes/Nested Functions/target/
+/Navigating Around/Course View/project/target/
+/Navigating Around/Course View/target/
+/Navigating Around/Editor/project/target/
+/Navigating Around/Editor/target/
+/Navigating Around/First Steps/project/target/
+/Navigating Around/First Steps/target/
+/Navigating Around/Task Description/project/target/
+/Navigating Around/Task Description/target/
+/Object Oriented Programming/Object Oriented Programming/project/target/
+/Object Oriented Programming/Object Oriented Programming/target/
+/Object Oriented Programming/Rational Arithmetic/project/target/
+/Object Oriented Programming/Rational Arithmetic/target/
+/Object Oriented Programming/Traits/project/target/
+/Object Oriented Programming/Traits/target/
+/Polymorphic Types/Covariance/project/target/
+/Polymorphic Types/Covariance/target/
+/Polymorphic Types/Polymorphic Types/project/target/
+/Polymorphic Types/Polymorphic Types/target/
+/Polymorphic Types/Type Bounds/project/target/
+/Polymorphic Types/Type Bounds/target/
+/project/target/
+/Standard Library/Common Operations on Lists/project/target/
+/Standard Library/Common Operations on Lists/target/
+/Standard Library/Error Handling/project/target/
+/Standard Library/Error Handling/target/
+/Standard Library/List/project/target/
+/Standard Library/List/target/
+/Structuring Information/Defining Alternatives With Sealed Traits/project/target/
+/Structuring Information/Defining Alternatives With Sealed Traits/target/
+/Structuring Information/Enumerations/project/target/
+/Structuring Information/Enumerations/target/
+/Structuring Information/Introduction/project/target/
+/Structuring Information/Introduction/target/
+/Syntactic Conveniences/Functions/project/target/
+/Syntactic Conveniences/Functions/target/
+/Syntactic Conveniences/Methods Parameters/project/target/
+/Syntactic Conveniences/Methods Parameters/target/
+/Syntactic Conveniences/String Interpolation/project/target/
+/Syntactic Conveniences/String Interpolation/target/
+/Syntactic Conveniences/Tuples/project/target/
+/Syntactic Conveniences/Tuples/target/
+/Tail Recursion/Recursive Function Application/project/target/
+/Tail Recursion/Recursive Function Application/target/
+/target/
+/Terms and Types/Common Types/project/target/
+/Terms and Types/Common Types/target/
+/Terms and Types/Method Calls/project/target/
+/Terms and Types/Method Calls/target/
+/Terms and Types/Method Calls/target/scala-2.12/classes/
+/Terms and Types/Method Calls/target/scala-2.12/test-classes/
+/Terms and Types/Operators/project/target/
+/Terms and Types/Operators/target/
+/Terms and Types/Primitive Expressions/project/target/
+/Terms and Types/Primitive Expressions/target/
+/Terms and Types/Primitive Expressions/target/scala-2.12/classes/
+/Terms and Types/Primitive Expressions/target/scala-2.12/test-classes/
+/Type Classes/Type Classes/project/target/
+/Type Classes/Type Classes/target/
